@@ -1,5 +1,45 @@
 # Changelog
 
+## [1.2.0](https://github.com/RafaelBlum/freezer-control/compare/v1.1.2...v1.2.0) (2024-12-09)
+
+
+### Features
+
+* Add botões de deleção com notificações no resources ([ef6cacd](https://github.com/RafaelBlum/freezer-control/commit/ef6cacda1b74d8238df548c75b789618fa0fd597))
+* add link produto modal infolist ([cfc703a](https://github.com/RafaelBlum/freezer-control/commit/cfc703a8ac117f7eb457a996c3d75f60b69bce9b))
+* add url amigavel slug resources ([563348d](https://github.com/RafaelBlum/freezer-control/commit/563348d1b7a30bb83db7ada3e52cc12c3a51bb62))
+* added local folder to db ([cfafb56](https://github.com/RafaelBlum/freezer-control/commit/cfafb561bc6419935800cd1c0a023443416bb361))
+* addiing filter stats - General adjustments ([e7ddb4a](https://github.com/RafaelBlum/freezer-control/commit/e7ddb4a12cecf95263bbb0fb95e3c05919a43fc9))
+* adding command normalize cost price ([51d74c0](https://github.com/RafaelBlum/freezer-control/commit/51d74c0da2e1f3039ad2ae067004a0816da831c5))
+* adding document mask ([fa04c91](https://github.com/RafaelBlum/freezer-control/commit/fa04c9146d86067c628e192b28d7c0f5bd8446c0))
+* adding stats overview ([8b009e4](https://github.com/RafaelBlum/freezer-control/commit/8b009e463abfbf97e73e65eb6e99cc951d70e0b6))
+* adicionado lista de produtos na Panel APP ([07f59d0](https://github.com/RafaelBlum/freezer-control/commit/07f59d06ff5ff886dc94b681f8f5c6a59c05fc14))
+* adicionado relacionamento com fornecedor em product_transactions ([8ffdf4e](https://github.com/RafaelBlum/freezer-control/commit/8ffdf4eead9099c89bbda542424397bdda4ebeb4))
+* age validation ([e3865ad](https://github.com/RafaelBlum/freezer-control/commit/e3865ade6d02d2bc519d4569e5b566d3b3bd4bfe))
+* arquivo permissões ([0dcbff4](https://github.com/RafaelBlum/freezer-control/commit/0dcbff44d5a8c74699164efe68d10137e2a3a8ad))
+* cell mask addition ([566dbe2](https://github.com/RafaelBlum/freezer-control/commit/566dbe204773d5845e14ee9176d5539805546946))
+* centralizar logo no header ([71e4b03](https://github.com/RafaelBlum/freezer-control/commit/71e4b03a5300c7da48a95feb0453cbc228513842))
+* criado gerenciamento de fornecedores no painel ([511fa19](https://github.com/RafaelBlum/freezer-control/commit/511fa1912a5c7c7408e4042f932bac7aa0e2b620))
+* estilizando pagina 403 ([d9a8b57](https://github.com/RafaelBlum/freezer-control/commit/d9a8b570c5179496936512a2611bb9b35ac1631c))
+* Iniciando dashboard APP | produtos ([42b2651](https://github.com/RafaelBlum/freezer-control/commit/42b26514ff4d140cdd11cd10360fe327f1ae1d35))
+* stats general ([9741101](https://github.com/RafaelBlum/freezer-control/commit/9741101505920585bd734891680a043e76a96c5b))
+
+
+### Bug Fixes
+
+* adicionado .docker ao gitignore ([86f6663](https://github.com/RafaelBlum/freezer-control/commit/86f6663bc12f2d08b14aa75cba93a4192fae9ff3))
+* call npm on  makefile ([16d2ab6](https://github.com/RafaelBlum/freezer-control/commit/16d2ab68097ad9dc73bbde20eadbcb6062a05e73))
+* corrige bug na movimentação de produtos ([c219237](https://github.com/RafaelBlum/freezer-control/commit/c219237acc7d5f4632c677a556ab88085251f854))
+* corrige notification ao exibir erro no pedido ([a167a2d](https://github.com/RafaelBlum/freezer-control/commit/a167a2d99edd302b995332c18062ce3ea4bdf58e))
+* corrige obtenção de constante de ambiente ([ebaf86a](https://github.com/RafaelBlum/freezer-control/commit/ebaf86a61e582d074d1b62c951ab2c50fb17e17c))
+* dockerfile ([e98c342](https://github.com/RafaelBlum/freezer-control/commit/e98c34288e902e833c322aa4aa68ed2f36381f9c))
+* enable quantity field after selected item ([b142086](https://github.com/RafaelBlum/freezer-control/commit/b142086e587cb001ebc5cf75307e7aad1a4f0344))
+* fixed checkout ([43243b9](https://github.com/RafaelBlum/freezer-control/commit/43243b9f5a03202dfacc7ad5ef53bcd75e281594))
+* npm install command added to makefile ([7dcba57](https://github.com/RafaelBlum/freezer-control/commit/7dcba5780039f8d8b0a33d5cd1cc0572c7be4d9d))
+* solve problem of client response ([bfd6e41](https://github.com/RafaelBlum/freezer-control/commit/bfd6e4150b4f5c3b9d4aed69faaa40384161d4c0))
+* tradução de menu de botões edit/view em produto, Usuário e Cliente ([5336b11](https://github.com/RafaelBlum/freezer-control/commit/5336b111441bad37f951eb23ef299377b89b2ca7))
+* validating if the error is valid json ([842701a](https://github.com/RafaelBlum/freezer-control/commit/842701ab4b2e55d1c07fd4d96da52078aa46ac6b))
+
 ## [1.1.2](https://github.com/icarojobs/freezer-control/compare/v1.1.1...v1.1.2) (2024-08-28)
 
 
